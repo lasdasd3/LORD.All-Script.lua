@@ -7,10 +7,10 @@ _G.Team = "Pirate" --Marine Or Pirate
 loadstring(game:HttpGet("https://raw.githubusercontent.com/lasdasd3/LORD-X-Trash/main/README.md"))()
 elseif PlaceId == 4996049426 then
     loadstring(game:HttpGet("https://raw.githubusercontent.com/lasdasd3/AllStar.lua/main/README.md"))()
-elesif Place Id == 7560156054 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/lasdasd3/-30K-Clicker-Simulator-/main/README.md"))()
+elesif Place Id == 7560156054 then	
+	loadstring(game:HttpGet("https://raw.githubusercontent.com/lasdasd3/-30K-Clicker-Simulator-/main/README.md"))()
 else
-	game.Players.LocalPlayer:kick("Dont Have This Game")
+	game.Players.LocalPlayer:kick("Stop Use Script :>")
 	wait(1)
 	game:Shutdown()
 end
